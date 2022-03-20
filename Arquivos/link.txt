@@ -1,0 +1,5 @@
+https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b
+https://realpython.com/nltk-nlp-python/
+https://www.alura.com.br/artigos/aplicacoes-nlp-mercado-de-trabalho
+https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/ch04.html
+https://www.kaggle.com/uciml/sms-spam-collection-dataset/code?datasetId=483&sortBy=voteCount
